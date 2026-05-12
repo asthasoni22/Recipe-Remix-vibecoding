@@ -1,6 +1,8 @@
 # Recipe Remix
 
 AI-powered app that transforms any recipe screenshot based on cuisine, dietary restrictions, and appliances.
+Demo Video - https://drive.google.com/file/d/1EE3GK9HPFt8c4X9Eub6XtgZUUG_5vvxR/view?usp=drive_link
+Thumbnail picture - https://drive.google.com/file/d/15nfCR0x-m32AeGFDYhiokOoAXfWj1pL3/view?usp=drive_link
 
 ## Features
 
